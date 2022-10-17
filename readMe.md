@@ -35,3 +35,6 @@ npm i @storybook/storybook-deployer --save-dev
 
 ## Rodar a build
 npm run build-storybook
+
+# Instalar storybook addon a11y
+npm install @storybook/addon-a11y
